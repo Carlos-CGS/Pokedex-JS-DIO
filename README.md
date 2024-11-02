@@ -19,7 +19,7 @@ Este projeto é uma Pokédex interativa desenvolvida como parte de um desafio da
 
 ## Alterações Realizadas
 
-As seguintes alterações foram feitas para aprimorar o projeto:
+As seguintes alterações foram feitas para aprimorar o projeto: https://pokedex-js-dio.vercel.app/
 
 1. **Customização de Cores dos Cards**: Cada card de Pokémon possui uma cor de fundo específica de acordo com o tipo do Pokémon, facilitando a distinção visual entre os tipos.
 2. **Modal com Detalhes Adicionais**: Implementado um modal para exibir informações detalhadas dos Pokémons ao clicar em um card, incluindo peso, altura e tipo.
