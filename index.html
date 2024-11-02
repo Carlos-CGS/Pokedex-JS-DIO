@@ -24,7 +24,7 @@
 
 <body>
     <section class="content">
-        <h1>Pokedex</h1>
+        <h1>Pokedex CGS</h1>
 
         <ol id="pokemonList" class="pokemons">
             <!-- ..... Pokemons here ..... -->
@@ -35,7 +35,23 @@
                 Load More
             </button>
         </div>
-    </section>
+            <!-- ..... Card Pokemons here ..... -->
+    <div id="pokemon-modal" class="modal">
+    <div class="modal-content">
+        <span class="close-button">&times;</span>
+        <div class="modal-header">
+            <h2 id="pokemon-name"></h2>
+        </div>
+        <div class="modal-detail">
+            <div class="info">
+                <p id="pokemon-weight"></p>
+                <p id="pokemon-height"></p>
+                <p id="pokemon-type"></p>
+            </div>
+            <img id="pokemon-photo" alt="Imagem do Pokémon" />
+        </div>
+    </div>
+</div>
 
     <!-- Nosso JS -->
     <script src="/assets/js/pokemon-model.js"></script>
