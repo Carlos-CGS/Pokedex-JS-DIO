@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const modal = document.getElementById("pokemon-modal");
 
     const maxRecords = 151;
-    const limit = 10;
+    const limit = 76;
     let offset = 0;
 
     function convertPokemonToLi(pokemon) {
