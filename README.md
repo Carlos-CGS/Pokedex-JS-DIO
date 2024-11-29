@@ -39,6 +39,6 @@ Contribuições para este projeto são bem-vindas! Se você gostaria de adiciona
 
 ## Link do Projeto (funcionando)
 
-Segue o link do projeto funcionando:
+Segue o link do projeto funcionando: https://pokedex-js-dio.vercel.app/
 
 "Vamos Disseminar os Conhecimentos e Transbordar Tudo o que Aprendemos!"
